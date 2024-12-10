@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Test/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/Test/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ```ds-hr
